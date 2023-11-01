@@ -1,5 +1,5 @@
 # AirBnB Clone - The Console
-Designing a RESTful API with Python and Flask using AirBnB project
+Designing a RESTful API with Python and Flask for the Airbnb Project
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
